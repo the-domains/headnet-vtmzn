@@ -1,0 +1,47 @@
+typography_spectrum: 0.3584879827685654
+color:
+  brandStrength: 0.6732335344422609
+  lightness: 0.6139401893597096
+  saturation: 0.4761436814442277
+  rhythmicContrast: 0.8875327480491251
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/493dc36f-1f3e-41d1-9b42-088fac2eacd9.png
+layout_spectrum: 0.8557965257205069
+analytics:
+  google: UA-48907311-1
+author:
+  name: Headnet
+  email: info@headnet.dk
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e27e2160-ebca-4dde-8841-7c7556648377.png
+name: HEADNET
+navigation:
+  - name: We do...
+    id: 5d00134f-e8df-46bc-bf2d-5ab917a66283
+    type: content
+  - name: We serve...
+    id: dde53552-dd72-4475-affa-5de9f6535326
+    type: content
+  - name: We are…
+    id: 5b4f57aa-c6ed-41e3-b77e-2b8f89067fe3
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef50a64d-01d7-4bc6-824c-63d836832ccf.png
+title: HEADNET
+content: []
+description: WE TECH A MORE INTELLIGENT FUTURE
+purpose:
+  - type: contact
+    url: 'tel:+45 7022 9750'
+    label: 'Call: +45 7022 9750'
+  - type: contact
+    url: 'mailto:info@headnet.dk'
+    label: Mail us
