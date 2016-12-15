@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-15T13:05:47.790Z'
+datePublished: '2016-12-15T13:32:10.556Z'
 sourcePath: _posts/2016-09-13-the-future-of-web-design.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-15T13:05:46.835Z'
+dateModified: '2016-12-15T13:32:09.716Z'
 title: The future of web design
 publisher: {}
 description: >-
@@ -52,7 +52,6 @@ Will [The Grid][0] supplant human designers? We don't know, but those of us at H
 
 > Is [The Grid][0] just a novel, futuristic tool that is trying to keep professional designers on their toes, or does the service have long-lasting prospects?
 
-**We at Headnet are doing 3 free demonstrations/workshops in Copenhagen about The Grid. You can [sign up here][1].**
+
 
 [0]: http://bit.ly/tgrid
-[1]: https://docs.google.com/forms/d/e/1FAIpQLSdYoAPrxOwYftFP7cGl6S0jKDKGPl8yNcBBCFRiUiVcmmdGyA/viewform?entry.166315846&entry.913270592&entry.1453275850=Tirsdag+den+11.+Oktober,+9:00-11:00
