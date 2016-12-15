@@ -1,4 +1,3 @@
-layout_spectrum: 0.9434393348228555
 typography_spectrum: 0.35072539193869223
 color:
   brandStrength: 0.8860271620519902
@@ -15,6 +14,7 @@ github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/493dc36f-1f3e-41d1-9b42-088fac2eacd9.png
+layout_spectrum: 0.9434393348228555
 analytics:
   google: UA-48907311-1
 author:
@@ -44,4 +44,4 @@ purpose:
     label: 'Call: +45 7022 9750'
   - type: contact
     url: 'mailto:info@headnet.dk'
-    label: Mail us
+    label: info@headnet.dk
