@@ -1,9 +1,10 @@
-typography_spectrum: 0.3584879827685654
+layout_spectrum: 0.9434393348228555
+typography_spectrum: 0.35072539193869223
 color:
-  brandStrength: 0.6732335344422609
-  lightness: 0.6139401893597096
-  saturation: 0.4761436814442277
-  rhythmicContrast: 0.8875327480491251
+  brandStrength: 0.8860271620519902
+  lightness: 0.7646032190986789
+  saturation: 0.7472867522421892
+  rhythmicContrast: 0.5081439392346114
   brandColors:
     - '#000000'
     - '#333333'
@@ -14,7 +15,6 @@ github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/493dc36f-1f3e-41d1-9b42-088fac2eacd9.png
-layout_spectrum: 0.8557965257205069
 analytics:
   google: UA-48907311-1
 author:
@@ -40,7 +40,7 @@ content: []
 description: WE TECH A MORE INTELLIGENT FUTURE
 purpose:
   - type: contact
-    url: 'tel:+45 7022 9750'
+    url: 'tel:+4570229750'
     label: 'Call: +45 7022 9750'
   - type: contact
     url: 'mailto:info@headnet.dk'
