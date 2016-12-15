@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-15T13:32:10.556Z'
+datePublished: '2016-12-15T13:32:12.069Z'
 sourcePath: _posts/2016-09-13-the-future-of-web-design.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-15T13:32:09.716Z'
+dateModified: '2016-12-15T13:32:11.519Z'
 title: The future of web design
 publisher: {}
 description: >-
