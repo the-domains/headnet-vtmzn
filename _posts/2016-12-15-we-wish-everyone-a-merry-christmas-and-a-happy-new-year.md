@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: We wish everyone a Merry Christmas and a Happy New Year.
-dateModified: '2016-12-15T13:03:16.725Z'
-datePublished: '2016-12-15T13:03:17.385Z'
+dateModified: '2016-12-15T13:05:46.835Z'
+datePublished: '2016-12-15T13:05:47.780Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-15-we-wish-everyone-a-merry-christmas-and-a-happy-new-year.md
 starred: false
 datePublishedOriginal: '2016-12-15T13:03:17.385Z'
-sourcePath: _posts/2016-12-15-we-wish-everyone-a-merry-christmas-and-a-happy-new-year.md
 url: we-wish-everyone-a-merry-christmas-and-a-happy-new-year/index.html
 _type: Article
 
