@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: We wish everyone a Merry Christmas and a Happy New Year.
-dateModified: '2016-12-15T13:30:00.531Z'
-datePublished: '2016-12-15T13:30:09.701Z'
+description: Vi önskar alla en God Jul och ett Gott Nytt År.
+dateModified: '2016-12-15T16:37:49.082Z'
+datePublished: '2016-12-15T16:37:49.531Z'
 title: ''
 author: []
 publisher: {}
@@ -17,13 +17,11 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db2c62ce-7cb7-4212-9efe-6e1a1ae97688.jpg)
 
-We wish everyone a Merry Christmas and a Happy New Year.
-
 Vi önskar alla en God Jul och ett Gott Nytt År.
 
 Nous souhaitons à tous un Joyeux Noël et une Bonne Année.
 
-Życzymy każdemu Wesołych Świąt i Szczęśliwego Nowego Roku.
+Życzymy wszystkim Wesołych Świąt i Szczęśliwego Nowego Roku.
 
 Vi ønsker alle en glædelig jul og et godt nytår.
 
