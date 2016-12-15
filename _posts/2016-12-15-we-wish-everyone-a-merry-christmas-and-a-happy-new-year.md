@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: We wish everyone a Merry Christmas and a Happy New Year.
-dateModified: '2016-12-15T13:05:46.835Z'
-datePublished: '2016-12-15T13:05:47.780Z'
+dateModified: '2016-12-15T13:08:41.632Z'
+datePublished: '2016-12-15T13:08:42.152Z'
 title: ''
 author: []
 publisher: {}
@@ -27,6 +27,6 @@ Nous souhaitons à tous un Joyeux Noël et une Bonne Année.
 
 Vi ønsker alle en glædelig jul og et godt nytår.
 
-நாம் எல்லோரும் ஒரு மெர்ரி கிறிஸ்துமஸ் மற்றும் ஒரு புத்தாண்டு விரும்புகிறேன்.
+அனைவருக்கும் எமது இனிய கிறிஸ்துமஸ் மற்றும் புத்தாண்டு வாழ்த்துக்கள்.
 
 Ми бажаємо всім щасливого Різдва і щасливого Нового року.
