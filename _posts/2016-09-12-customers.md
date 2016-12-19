@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-15T13:05:47.787Z'
+datePublished: '2016-12-19T11:53:01.292Z'
 sourcePath: _posts/2016-09-12-customers.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-15T13:05:46.835Z'
-title: Customers
+dateModified: '2016-12-19T11:53:00.597Z'
+title: Our beloved customers
 publisher: {}
 description: Some of the customers that have enjoyed our solutions…
 starred: false
@@ -15,7 +15,7 @@ url: customers/index.html
 _type: Blurb
 
 ---
-# Customers
+# Our beloved customers
 
 Some of the customers that have enjoyed our solutions...
 
