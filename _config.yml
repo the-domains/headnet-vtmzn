@@ -1,9 +1,10 @@
-typography_spectrum: 0.23251862297922668
+layout_spectrum: 0.7386079767725365
+typography_spectrum: 0.2409441755384686
 color:
-  brandStrength: 0.7974886933918859
-  lightness: 0.9021857438668941
-  saturation: 0.5904369768539978
-  rhythmicContrast: 0.05679742529444249
+  brandStrength: 0.3657330195778188
+  lightness: 0.879379130829642
+  saturation: 0.7187237467200929
+  rhythmicContrast: 0.1966610336105459
   brandColors:
     - '#000000'
     - '#333333'
@@ -14,7 +15,6 @@ github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/493dc36f-1f3e-41d1-9b42-088fac2eacd9.png
-layout_spectrum: 0.7807222532456058
 analytics:
   google: UA-48907311-1
 author:
