@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Niels Korsholm (Chairman)
-dateModified: '2016-12-19T12:30:16.154Z'
-datePublished: '2016-12-19T12:30:16.596Z'
+dateModified: '2016-12-19T12:48:35.942Z'
+datePublished: '2016-12-19T12:48:36.502Z'
 title: The board of directors
 author: []
 publisher: {}
