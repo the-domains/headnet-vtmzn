@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Vi önskar alla en God Jul och ett Gott Nytt År.
-dateModified: '2016-12-15T16:37:50.663Z'
-datePublished: '2016-12-15T16:37:50.971Z'
-title: ''
+description: ''
+dateModified: '2016-12-19T13:37:50.192Z'
+datePublished: '2016-12-19T13:37:50.699Z'
+title: Vi önskar alla en God Jul och ett Gott Nytt År.
 author: []
 publisher: {}
 via: {}
@@ -17,14 +17,14 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db2c62ce-7cb7-4212-9efe-6e1a1ae97688.jpg)
 
-Vi önskar alla en God Jul och ett Gott Nytt År.
+### Vi önskar alla en God Jul och ett Gott Nytt År.
 
-Nous souhaitons à tous un Joyeux Noël et une Bonne Année.
+### Nous souhaitons à tous un Joyeux Noël et une Bonne Année.
 
-Życzymy wszystkim Wesołych Świąt i Szczęśliwego Nowego Roku.
+### Życzymy wszystkim Wesołych Świąt i Szczęśliwego Nowego Roku.
 
-Vi ønsker alle en glædelig jul og et godt nytår.
+### Vi ønsker alle en glædelig jul og et godt nytår.
 
-அனைவருக்கும் எமது இனிய கிறிஸ்துமஸ் மற்றும் புத்தாண்டு வாழ்த்துக்கள்.
+### அனைவருக்கும் எமது இனிய கிறிஸ்துமஸ் மற்றும் புத்தாண்டு வாழ்த்துக்கள்.
 
-Ми бажаємо всім щасливого Різдва і щасливого Нового року.
+### Ми бажаємо всім щасливого Різдва і щасливого Нового року.
