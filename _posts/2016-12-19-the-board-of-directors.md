@@ -1,16 +1,16 @@
 ---
 inFeed: false
 description: 'Niels Korsholm (Chairman) CEO, KORSHOLM Ventures LinkedIn profile'
-dateModified: '2016-12-19T13:46:26.004Z'
-datePublished: '2016-12-19T13:46:26.394Z'
+dateModified: '2016-12-19T13:46:57.413Z'
+datePublished: '2016-12-19T13:46:58.059Z'
 title: The board of directors
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-19-the-board-of-directors.md
 starred: false
 datePublishedOriginal: '2016-12-19T13:46:25.593Z'
-sourcePath: _posts/2016-12-19-the-board-of-directors.md
 url: the-board-of-directors/index.html
 _type: Blurb
 
