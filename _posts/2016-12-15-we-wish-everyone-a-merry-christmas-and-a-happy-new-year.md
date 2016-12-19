@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-19T13:37:50.192Z'
-datePublished: '2016-12-19T13:37:50.699Z'
+dateModified: '2016-12-19T13:50:34.392Z'
+datePublished: '2016-12-19T13:50:35.093Z'
 title: Vi önskar alla en God Jul och ett Gott Nytt År.
 author: []
 publisher: {}
