@@ -27,11 +27,11 @@ navigation:
   - name: What we are and do
     id: 5d00134f-e8df-46bc-bf2d-5ab917a66283
     type: content
-  - name: Our beloved customers
-    id: dde53552-dd72-4475-affa-5de9f6535326
-    type: content
   - name: The magic team
     id: f80e15bd-4b9f-4b31-9e2d-efcb664609d9
+    type: content
+  - name: Our beloved customers
+    id: dde53552-dd72-4475-affa-5de9f6535326
     type: content
   - name: The board of directors
     id: 3800fd1b-2f21-4fcb-84e6-94d2924de523
