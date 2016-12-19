@@ -4,9 +4,9 @@
         <description><![CDATA[HEADNET]]></description>
         <link>http://headnet.dk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Dec 2016 11:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2016 12:22:37 GMT</lastBuildDate>
         <atom:link href="http://headnet.dk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Dec 2016 11:53:55 GMT</pubDate>
+        <pubDate>Mon, 19 Dec 2016 12:22:12 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db2c62ce-7cb7-4212-9efe-6e1a1ae97688.jpg">]]></description>
@@ -20,6 +20,13 @@
             <link>http://headnet.dk/about-headnet/index.html</link>
             <guid isPermaLink="false">5d00134f-e8df-46bc-bf2d-5ab917a66283</guid>
             <pubDate>Mon, 19 Dec 2016 11:53:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The board of directors]]></title>
+            <description><![CDATA[<article><h1>The board of directors</h1><p>Niels Korsholm (Chairman)</p></article>]]></description>
+            <link>http://headnet.dk/the-board-of-directors/index.html</link>
+            <guid isPermaLink="false">3800fd1b-2f21-4fcb-84e6-94d2924de523</guid>
+            <pubDate>Mon, 19 Dec 2016 12:22:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Piwik]]></title>
