@@ -1,4 +1,3 @@
-layout_spectrum: 0.57387011105333
 typography_spectrum: 0.46762968057637466
 color:
   brandStrength: 0.7925050301671877
@@ -15,6 +14,7 @@ github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/493dc36f-1f3e-41d1-9b42-088fac2eacd9.png
+layout_spectrum: 0.57387011105333
 analytics:
   google: UA-48907311-1
 author:
@@ -30,11 +30,11 @@ navigation:
   - name: Our beloved customers
     id: dde53552-dd72-4475-affa-5de9f6535326
     type: content
-  - name: The magic team
-    id: f80e15bd-4b9f-4b31-9e2d-efcb664609d9
-    type: content
   - name: The board of directors
     id: 5b4f57aa-c6ed-41e3-b77e-2b8f89067fe3
+    type: content
+  - name: The magic team
+    id: f80e15bd-4b9f-4b31-9e2d-efcb664609d9
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef50a64d-01d7-4bc6-824c-63d836832ccf.png
