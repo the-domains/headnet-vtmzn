@@ -1,4 +1,3 @@
-layout_spectrum: 1
 typography_spectrum: 0.9271114911259807
 color:
   brandStrength: 0.1650535625017405
@@ -15,6 +14,7 @@ github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/493dc36f-1f3e-41d1-9b42-088fac2eacd9.png
+layout_spectrum: 1
 analytics:
   google: UA-48907311-1
 author:
