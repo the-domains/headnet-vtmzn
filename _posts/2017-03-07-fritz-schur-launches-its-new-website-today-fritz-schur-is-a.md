@@ -4,8 +4,8 @@ description: >-
   Fritz Schur launches its new website today. Fritz Schur is a modern
   engineering and consulting partner. The solution is developed in cooperation
   with Headnet and 1508. See the solution live on https://fst.dk/
-dateModified: '2017-03-07T09:22:16.395Z'
-datePublished: '2017-03-07T09:22:16.686Z'
+dateModified: '2017-03-07T09:22:42.099Z'
+datePublished: '2017-03-07T09:22:42.984Z'
 title: ''
 author: []
 publisher: {}
