@@ -1,17 +1,17 @@
 ---
-datePublished: '2017-03-07T09:22:16.740Z'
+datePublished: '2017-03-07T09:48:31.288Z'
 sourcePath: _posts/2016-09-12-about-headnet.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-07T09:22:16.395Z'
+dateModified: '2017-03-07T09:48:30.533Z'
 title: What we are and do
 publisher: {}
 description: >-
-  We believe great people, great ideas and great software will continue to make
+  We believe great people, great ideas, and great software will continue to make
   our world more intelligent. We believe that we can co-create solutions that
-  makes a huge difference for the way companies do business now and in the
+  make a huge difference for the way companies do business now and in the
   future.
 starred: true
 datePublishedOriginal: '2017-02-09T10:52:39.552Z'
@@ -23,11 +23,11 @@ _type: Article
 
 ## We tech a more intelligent future
 
-We believe great people, great ideas and great software will continue to make our world more intelligent. We believe that we can co-create solutions that makes a huge difference for the way companies do business now and in the future.
+We believe great people, great ideas, and great software will continue to make our world more intelligent. We believe that we can co-create solutions that make a huge difference for the way companies do business now and in the future.
 
-We are a dynamic group of skillful technology philosphers who embrace change and challenge the status quo. We are always curious and skilled at what we do. We aim to balance perfectionism with pragmatisme in a conscionable way. We use lean thinking and innovative technology that allows us to make great software.
+We are a dynamic group of skillful technology philosophers who embrace change and challenge the status quo. We are always curious and skilled at what we do. We aim to balance perfectionism with pragmatism in a conscionable way. We use lean thinking and innovative technology that allows us to make great software.
 
-We help you make the most of the latest technologies by challenging existing practices and provides tailored solutions that exceed your expectations and taps into new digital opportunities for your business. Our elegant solutions are made by using the best open source and cloud based technologies available.
+We help you make the most of the latest technologies by challenging existing practices and provides tailored solutions that exceed your expectations and taps into new digital opportunities for your business. Our elegant solutions are made by using the best open source and cloud-based technologies available.
 
 We are located in Copenhagen, Denmark. We speak Danish, English and some of us French, Polish, Swedish or Tamil.
 
