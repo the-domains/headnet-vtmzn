@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-07T09:21:12.479Z'
+datePublished: '2017-03-07T09:22:42.984Z'
 sourcePath: _posts/2016-09-12-customers.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-07T09:21:12.032Z'
+dateModified: '2017-03-07T09:22:42.099Z'
 title: Our beloved customers
 publisher: {}
 description: Some of the customers that have enjoyed our solutions…
