@@ -5,9 +5,9 @@ description: >-
   engineering and consulting partner. The solution was developed in cooperation
   between Headnet, 1508 and Fritz Schur. See the solution live at
   https://fst.dk/
-dateModified: '2017-03-07T09:31:30.569Z'
-datePublished: '2017-03-07T09:31:30.694Z'
-title: ''
+dateModified: '2017-03-07T09:35:48.560Z'
+datePublished: '2017-03-07T09:35:49.582Z'
+title: New website site for Fritz Schur.
 author: []
 publisher: {}
 via: {}
@@ -18,5 +18,7 @@ datePublishedOriginal: '2017-03-07T09:20:48.962Z'
 _type: Blurb
 
 ---
+# New website site for Fritz Schur.
+
 Fritz Schur have just launched their new website. Fritz Schur are a modern engineering and consulting partner. The solution was developed in cooperation between Headnet, 1508 and Fritz Schur. See the solution live at https://fst.dk/
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/da483c113edc1e9af1b5a569b1c6d313/croprotate.png?cropheight=1498&cropwidth=2344&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F053f25e1-4c3e-4b49-8e5d-3a8533992b8e.png&x=0&y=21)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/28e5c3b664f12128324dfc040e53581a46073bea.png)
