@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-09T10:52:42.154Z'
+datePublished: '2017-03-07T09:22:42.799Z'
 sourcePath: _posts/2016-09-19-we-are-ready-to-help-you.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-02-09T10:52:30.700Z'
+dateModified: '2017-03-07T09:22:42.099Z'
 title: We are ready to serve you
 publisher: {}
 description: 'We speak Danish, English and some of us French, Polish, Swedish or Tamil.'
