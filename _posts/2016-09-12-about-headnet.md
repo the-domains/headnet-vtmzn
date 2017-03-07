@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-07T09:21:12.484Z'
+datePublished: '2017-03-07T09:22:16.740Z'
 sourcePath: _posts/2016-09-12-about-headnet.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-07T09:21:12.032Z'
+dateModified: '2017-03-07T09:22:16.395Z'
 title: What we are and do
 publisher: {}
 description: >-
