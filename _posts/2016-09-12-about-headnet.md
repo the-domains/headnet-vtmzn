@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-07T09:48:31.288Z'
+datePublished: '2017-03-07T09:55:41.035Z'
 sourcePath: _posts/2016-09-12-about-headnet.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-07T09:48:30.533Z'
+dateModified: '2017-03-07T09:55:40.128Z'
 title: What we are and do
 publisher: {}
 description: >-
@@ -29,7 +29,7 @@ We are a dynamic group of skillful technology philosophers who embrace change an
 
 We help you make the most of the latest technologies by challenging existing practices and provides tailored solutions that exceed your expectations and taps into new digital opportunities for your business. Our elegant solutions are made by using the best open source and cloud-based technologies available.
 
-We are located in Copenhagen, Denmark. We speak Danish, English and some of us French, Polish, Swedish or Tamil.
+Headnet is located in Copenhagen, Denmark. We speak Danish, English and some of us French, Polish, Swedish or Tamil.
 
 ## Services
 
@@ -37,17 +37,17 @@ We are located in Copenhagen, Denmark. We speak Danish, English and some of us F
 
 Not sure what technology can do, what to choose and how to execute technology projects fast and enable your organization or business with new technology? Then Headnet could be your preferred partner with 15 years of experience primary based within the Open Source domain combined with cloud services and new trends like artificial intelligence we could co-create your new system, product or service pumped with business value.
 
-### Full-Service SWAT Team
+### Full-Service Development Team
 
-Get a highly qualified senior software development team that helps you mark that important or critical IT project as done. You can choose to complement a team or get a fully running team. We can work remote or onsite as a solo team or integrate with your current IT team in your organization.
+Get a highly qualified senior software development team that helps you mark that important or critical IT project as done. We can work remote or onsite as a solo team or as an integrated part of your current IT team in your organization.
 
 ### Minimal Viable Product (MVP)
 
-We will lead you in the process when building an MVP but also do the hard work. An MVP product can help you to test a product hypothesis with minimal resources, get market validation, accelerate learning, reduce wasted engineering hours and get the product to early customers as soon as possible. When the process is done you will get a minimum viable product in the form of a prototype, an entire product, or a subset of a product.
+We will lead you in the process when building an MVP but also do the hard work. An MVP product can help you to test a product hypothesis with minimal resources, get market validation, accelerate learning, reduce wasted engineering hours and get the product as fast as possible to the customers. When the process is done, you will get a minimum viable product in the form of a prototype, an entire product, or a subset of a product.
 
-### Technical Support
+### Technical Support and Application Management 
 
-When the IT system, service or product hits the end-user or customer we will stand by your side. We have dedicated people that are ready to help you when you call or mail us. Our support functions have a customer rating at 9.6 out of 10\.
+When the IT system, service or product hits the end-user or customer, we will stand by your side. We have dedicated people that are ready to help you when you call or mail us. Our support functions have a customer rating at 9.6 out of 10\.
 
 ## Contact information
 
