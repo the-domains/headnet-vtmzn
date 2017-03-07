@@ -5,8 +5,8 @@ description: >-
   engineering and consulting partner. The solution was developed in cooperation
   between Headnet, 1508 and Fritz Schur. See the solution live at
   https://fst.dk/
-dateModified: '2017-03-07T09:30:00.976Z'
-datePublished: '2017-03-07T09:30:01.812Z'
+dateModified: '2017-03-07T09:31:30.569Z'
+datePublished: '2017-03-07T09:31:30.694Z'
 title: ''
 author: []
 publisher: {}
