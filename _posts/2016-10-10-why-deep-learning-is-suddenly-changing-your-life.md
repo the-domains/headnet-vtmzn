@@ -30,8 +30,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://fortune.com/ai-artificial-intelligence-deep-machine-learning/'
 title: Why Deep Learning Is Suddenly Changing Your Life
-datePublished: '2016-12-15T13:36:57.270Z'
-dateModified: '2016-12-15T13:36:55.852Z'
+datePublished: '2017-03-07T09:22:42.972Z'
+dateModified: '2017-03-07T09:22:42.099Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-10-why-deep-learning-is-suddenly-changing-your-life.md
