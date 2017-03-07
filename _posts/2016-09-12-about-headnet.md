@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-07T09:55:41.035Z'
+datePublished: '2017-03-07T09:56:26.580Z'
 sourcePath: _posts/2016-09-12-about-headnet.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-07T09:55:40.128Z'
+dateModified: '2017-03-07T09:56:26.008Z'
 title: What we are and do
 publisher: {}
 description: >-
@@ -35,7 +35,7 @@ Headnet is located in Copenhagen, Denmark. We speak Danish, English and some of 
 
 ### Technology Consulting
 
-Not sure what technology can do, what to choose and how to execute technology projects fast and enable your organization or business with new technology? Then Headnet could be your preferred partner with 15 years of experience primary based within the Open Source domain combined with cloud services and new trends like artificial intelligence we could co-create your new system, product or service pumped with business value.
+Not sure what technology can do, what to choose and how to execute technology projects fast and enable your organization or business with new technology? Then Headnet could be your preferred partner with 15 years of experience primary within the Open Source domain combined with cloud services and new trends like artificial intelligence we could co-create your new system, product or service pumped with business value.
 
 ### Full-Service Development Team
 
