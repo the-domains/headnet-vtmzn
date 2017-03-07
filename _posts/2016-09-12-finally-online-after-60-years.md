@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-15T13:36:57.245Z'
+datePublished: '2017-03-07T09:22:43.088Z'
 sourcePath: _posts/2016-09-12-finally-online-after-60-years.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-15T13:36:55.852Z'
+dateModified: '2017-03-07T09:22:42.099Z'
 title: 'Finally, online after 60 years!'
 publisher: {}
 description: >-
